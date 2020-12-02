@@ -204,10 +204,9 @@
       end
     end  
       new_allergy_array
-  end
+    end
 
-  puts allergy_score(256)
-
+    puts allergy_score(256)
     ```
 
 
