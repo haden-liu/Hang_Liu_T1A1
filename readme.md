@@ -149,7 +149,7 @@
     ```
 
 ## Question 14(1): Create a flowchart to outline the steps for listing all prime numbers between 1 and 100 (inclusive) (2): Write pseudocode for the process outlined in your flowchart
-![picture](./q14.png)
+![picture](img/q14.PNG)
 
 
     ⋅⋅⋅pseudocode:
