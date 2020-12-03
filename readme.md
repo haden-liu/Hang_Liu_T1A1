@@ -149,8 +149,9 @@
     ```
 
 ## Question 14(1): Create a flowchart to outline the steps for listing all prime numbers between 1 and 100 (inclusive) (2): Write pseudocode for the process outlined in your flowchart
-    ![Alt text](C:\Users\haden\Documents\coder_academy\assignment1\q14.PNG?raw=true "Flow Chart")
-    ![picture](./q14.png)
+![picture](./q14.png)
+
+
     ⋅⋅⋅pseudocode:
         ⋅⋅* Given an array contains integer number between 1 and 100.
         ⋅⋅* looping each number of the array using for / each, if the number < or = 1, return No as prime numbers should great than 1, if the number great than 1, we will start a new if control flow nested in the flow for next step.
