@@ -2,15 +2,15 @@
 
 ## Question 1: Research the development of the internet from 1980 to today. You must describe at least FIVE key events in the development of the internet. You can refer to events, people of significance, or technologies and how they have changed over time.
 
-    ⋅⋅1. In the year 1983, A new communications protocol was established called Transfer Control Protocol/Internetwork Protocol (TCP/IP). This allowed different kinds of computers on different networks to "talk" to each other. ARPANET and the Defense Data Network officially changed to the TCP/IP standard on January 1, 1983. So this year is considered as the birth year of the Internet.
+    1. In the year 1983, A new communications protocol was established called Transfer Control Protocol/Internetwork Protocol (TCP/IP). This allowed different kinds of computers on different networks to "talk" to each other. ARPANET and the Defense Data Network officially changed to the TCP/IP standard on January 1, 1983. So this year is considered as the birth year of the Internet.
 
-    ⋅⋅2. In the year 1984, The domain name system was created along with the first Domain Name Servers (DNS). The domain name system was important in that it made addresses on the Internet more human-friendly compared to its numerical IP address counterparts. DNS servers allowed Internet users to type in an easy-to-remember domain name and then converted it to the IP address automatically (William 2009).
+    2. In the year 1984, The domain name system was created along with the first Domain Name Servers (DNS). The domain name system was important in that it made addresses on the Internet more human-friendly compared to its numerical IP address counterparts. DNS servers allowed Internet users to type in an easy-to-remember domain name and then converted it to the IP address automatically (William 2009).
 
-    ⋅⋅3. In the year 1990, Tim Berners-Lee invented HTML and a text browser, as well as a hypertext graphical user interface (GUI) browser. Then he established the first successful communication between a Hypertext Transfer Protocol client and a server via the Internet. These inventions were the makings of Web pages as we know them today (A simple history of the Internet 2014).
+    3. In the year 1990, Tim Berners-Lee invented HTML and a text browser, as well as a hypertext graphical user interface (GUI) browser. Then he established the first successful communication between a Hypertext Transfer Protocol client and a server via the Internet. These inventions were the makings of Web pages as we know them today (A simple history of the Internet 2014).
 
-    ⋅⋅4. In the year 1995, Sun Microsystems first released Java, which still an immensely popular Internet programming language to this day (A simple history of the Internet 2014).
+    4. In the year 1995, Sun Microsystems first released Java, which still an immensely popular Internet programming language to this day (A simple history of the Internet 2014).
 
-    ⋅⋅5. In the year 2006, Google CEO Eric Schmidt introduced the term “cloud computing” at an industry conference. “The Cloud” would become another synonym for the Internet soon thereafter (A simple history of the Internet 2014).
+    5. In the year 2006, Google CEO Eric Schmidt introduced the term “cloud computing” at an industry conference. “The Cloud” would become another synonym for the Internet soon thereafter (A simple history of the Internet 2014).
 
 
 ## Question2: Define the features of the following technologies that are essential in terms of the development of the internet
