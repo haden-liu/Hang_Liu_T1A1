@@ -102,7 +102,8 @@
 ## Question 8: Explain control flow, using an example from the Ruby programming language
     ⋅⋅⋅In computer science, control flow is the order in which individual statements, instructions or function calls of an imperative program are executed or evaluated. A control flow statement is a statement that results in a choice being made as to which of two or more paths to follow. 
     
-    ⋅⋅⋅Coding Example: ![alt text](C:\Users\haden\Documents\coder_academy\assignment1\.Capture.PNG "coding example")
+    ⋅⋅⋅Coding Example: 
+![picture](img/unknown.png)
 
     ⋅⋅⋅In above example, we first ask user to enter a number, and then convert answer value to integer and store as a variable called number.
 
