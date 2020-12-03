@@ -224,33 +224,33 @@ b) the full list of allergies.
 
 
 ## Referencing
-    ⋅⋅* A simple history of the Internet, viewed 25 November 2020, <https://intetics.com/blog/a-simple-history-of-the-internet>
+     A simple history of the Internet, viewed 25 November 2020, <https://intetics.com/blog/a-simple-history-of-the-internet>
 
-    ⋅⋅* William, C, 2009, The History of the Internet in a Nutshell, viewed 25 November 2020, <https://www.webfx.com/blog/web-design/the-history-of-the-internet-in-a-nutshell/>
+     William, C, 2009, The History of the Internet in a Nutshell, viewed 25 November 2020, <https://www.webfx.com/blog/web-design/the-history-of-the-internet-in-a-nutshell/>
 
-    ⋅⋅* Cloudflare, n.d., How does the Internet work, viewed 26 November 2020, <https://www.cloudflare.com/learning/network-layer/how-does-the-internet-work/>
+     Cloudflare, n.d., How does the Internet work, viewed 26 November 2020, <https://www.cloudflare.com/learning/network-layer/how-does-the-internet-work/>
 
-    ⋅⋅* Postel, J, 1981, Internet Protocol, DARPA Internet Program Protocol Specification, viewed 27 November 2020, <https://tools.ietf.org/html/rfc791>
+     Postel, J, 1981, Internet Protocol, DARPA Internet Program Protocol Specification, viewed 27 November 2020, <https://tools.ietf.org/html/rfc791>
 
-    ⋅⋅* Oxford University Press, n.d., Oxford English Dictionary, viewed 27 November 2020, <https://en.wikipedia.org/wiki/Router_(computing)#cite_note-2>
+     Oxford University Press, n.d., Oxford English Dictionary, viewed 27 November 2020, <https://en.wikipedia.org/wiki/Router_(computing)#cite_note-2>
 
-    ⋅⋅* Wikipedia, n.d., Routing, viewed 28 November 2020, <https://en.wikipedia.org/wiki/Routing>
+     Wikipedia, n.d., Routing, viewed 28 November 2020, <https://en.wikipedia.org/wiki/Routing>
 
-    ⋅⋅* Wikipedia, n.d., Network domain, viewed 28 November 2020, <https://en.wikipedia.org/wiki/Network_domain#:~:text=A%20network%20domain%20is%20an,Domain%20Name%20System%20(DNS)>
+     Wikipedia, n.d., Network domain, viewed 28 November 2020, <https://en.wikipedia.org/wiki/Network_domain#:~:text=A%20network%20domain%20is%20an,Domain%20Name%20System%20(DNS)>
 
-    ⋅⋅* SDxCentral, n.d, Transmission Control Protocol (TCP), viewed 29 November 2020, <https://www.sdxcentral.com/resources/glossary/transmission-control-protocol-tcp/>
+     SDxCentral, n.d, Transmission Control Protocol (TCP), viewed 29 November 2020, <https://www.sdxcentral.com/resources/glossary/transmission-control-protocol-tcp/>
 
-    ⋅⋅* web browser, n.d, What is a web browser, viewed 30 November 2020, <https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/>
+     web browser, n.d, What is a web browser, viewed 30 November 2020, <https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/>
 
-    ⋅⋅* Mindfire Solutions, 2017, Advantages and Disadvantages of Python Programming Language, viewed 30 November 2020, <https://medium.com/@mindfiresolutions.usa/advantages-and-disadvantages-of-python-programming-language-fd0b394f2121>
+     Mindfire Solutions, 2017, Advantages and Disadvantages of Python Programming Language, viewed 30 November 2020, <https://medium.com/@mindfiresolutions.usa/advantages-and-disadvantages-of-python-programming-language-fd0b394f2121>
 
-    ⋅⋅* Ruby, n.d, Ruby (programming language), viewed 30 November 2020, <https://en.wikipedia.org/wiki/Ruby_(programming_language)>
+     Ruby, n.d, Ruby (programming language), viewed 30 November 2020, <https://en.wikipedia.org/wiki/Ruby_(programming_language)>
     
-    ⋅⋅* Ruby Programming, 2019, Ruby Programming Language: Advantages and Disadvantages Explained, viewed 30 November 2020, <https://technographx.com/ruby-programming-language/>
+     Ruby Programming, 2019, Ruby Programming Language: Advantages and Disadvantages Explained, viewed 30 November 2020, <https://technographx.com/ruby-programming-language/>
 
-    ⋅⋅* Johnson, S, n.d., The Disadvantages of Ruby Programming, viewed 30 November 2020, <https://www.techwalla.com/articles/the-disadvantages-of-ruby-programming>
+     Johnson, S, n.d., The Disadvantages of Ruby Programming, viewed 30 November 2020, <https://www.techwalla.com/articles/the-disadvantages-of-ruby-programming>
 
-    ⋅⋅* Tandon, K, 2020, Type Coercion in JavaScript, viewed 1 December 2020, <https://medium.com/developers-arena/type-coercion-in-javascript-c973b369b272>
+     Tandon, K, 2020, Type Coercion in JavaScript, viewed 1 December 2020, <https://medium.com/developers-arena/type-coercion-in-javascript-c973b369b272>
 
 
 
